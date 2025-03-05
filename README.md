@@ -1,5 +1,7 @@
 # Rainy_UHF_Pico_Expansion_Hardware
 
+<img src="https://github.com/sbcshop/Rainy_UHF_Pico_Expansion_Software/blob/main/images/Feature_banner.jpg" width="" height=""> 
+
 This GitHub repository contains Rainy UHF Pico Expansion hardware design files. 
 
 ### Repository Contents:
